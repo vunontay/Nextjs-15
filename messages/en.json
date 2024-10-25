@@ -1,19 +1,26 @@
 {
-  "NavbarLinks": {
-    "home": "Home",
-    "homeTitle": "Home page",
-    "about": "About",
-    "aboutTitle": "About page",
-    "profile": "Profile",
-    "profileTitle": "Profile page"
-  },
-  "HomePage": {
-    "title": "Landing page"
-  },
-  "AboutPage": {
-    "title": "About"
-  },
-  "ProfilePage": {
-    "title": "Profile"
-  }
+    "UserButton": {
+        "language": "Language",
+        "menuLabel": "Logged in as",
+        "profile": "Profile",
+        "theme": "Theme",
+        "themeSystem": "System default",
+        "themeLight": "Light",
+        "themeDark": "Dark",
+        "logout": "Logout"
+    },
+    "SearchField": {
+        "placeholder": "Search"
+    },
+    "Menubar": {
+        "HomeLink": "Home",
+        "NotificationsLink": "Notifications",
+        "MessagesLink": "Messages",
+        "BookmarksLink": "Bookmarks"
+    },
+    "PageTitle": {
+        "HomePage": "Home Page",
+        "LoginPage": "Login Page",
+        "RegisterPage": "Register Page"
+    }
 }

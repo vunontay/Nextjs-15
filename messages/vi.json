@@ -1,0 +1,26 @@
+{
+    "UserButton": {
+        "language": "Ngôn ngữ",
+        "menuLabel": "Đăng nhập với tư cách",
+        "profile": "Hồ sơ",
+        "theme": "Chủ đề",
+        "themeSystem": "Mặc định hệ thống",
+        "themeLight": "Sáng",
+        "themeDark": "Tối",
+        "logout": "Đăng xuất"
+    },
+    "SearchField": {
+        "placeholder": "Tìm kiếm"
+    },
+    "Menubar": {
+        "HomeLink": "Trang chủ",
+        "NotificationsLink": "Thông báo",
+        "MessagesLink": "Tin nhắn",
+        "BookmarksLink": "Đánh dấu"
+    },
+    "PageTitle": {
+        "HomePage": "Trang chủ",
+        "LoginPage": "Trang đăng nhập",
+        "RegisterPage": "Trang đăng ký"
+    }
+}
